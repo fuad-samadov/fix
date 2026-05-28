@@ -1,6 +1,6 @@
-log_initiator/
-log_acceptor/
-store_initiator/
-store_acceptor/
-__pycache__/
+# logs and fix file store
+logs/
+fix_store/
 
+__pycache__/
+.venv/
