@@ -1,0 +1,3 @@
+quickfix
+pyzmq
+PyQt6
